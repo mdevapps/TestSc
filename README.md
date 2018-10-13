@@ -1,2 +1,0 @@
-# TestSc
-Test repo
